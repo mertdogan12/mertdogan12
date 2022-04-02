@@ -1,7 +1,15 @@
 {
   "socials": [
-    ["E-Mail", "mailto:dogan@mert.nrw"],
-    ["Instagram", "https://www.instagram.com/mertdogan12_1/"]
+    {
+      "name": "E-Mail",
+      "link": "mailto:dogan@mert.nrw",
+      "icon": ""
+    },
+    {
+      "name": "Instagram",
+      "link": "https://www.instagram.com/mertdogan12_1/",
+      "icon": ""
+    }
   ],
   "websiteInfo": "Source: https://github.com/mertdogan12/website",
   "defaultEffect": "retro"
