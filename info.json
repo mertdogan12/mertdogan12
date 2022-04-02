@@ -3,5 +3,6 @@
     ["E-Mail", "mailto:dogan@mert.nrw"],
     ["Instagram", "https://www.instagram.com/mertdogan12_1/"]
   ],
-  "websiteInfo": "Source: https://github.com/mertdogan12/website"
+  "websiteInfo": "Source: https://github.com/mertdogan12/website",
+  "defaultEffect": "retro"
 }
