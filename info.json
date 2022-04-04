@@ -9,6 +9,36 @@
       "name": "Instagram",
       "link": "https://www.instagram.com/mertdogan12_1/",
       "icon": "https://github.mert.nrw/mertdogan12/instagram.png"
+    },,
+    {
+      "name": "Twitter",
+      "link": "https://twitter.com/mertdogan12_1",
+      "icon": ""
+    }
+    {
+      "name": "My Anime List",
+      "link": "https://myanimelist.net/animelist/mertdogan",
+      "icon": ""
+    },
+    {
+      "name": "Osu",
+      "link": "https://osu.ppy.sh/users/16775794",
+      "icon": ""
+    },
+    {
+      "name": "Steam",
+      "link": "https://steamcommunity.com/id/mertdogan12/",
+      "icon": ""
+    },
+    {
+      "name": "Discord",
+      "link": "https://discordapp.com/users/mertdogan#4181",
+      "icon": ""
+    },
+    {
+      "name": "Github",
+      "link": "https://gihub.com/mertdogan12",
+      "icon": ""
     }
   ],
   "websiteInfo": "Source: https://github.com/mertdogan12/website",
