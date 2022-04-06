@@ -1,44 +1,79 @@
 {
   "socials": [
     {
-      "name": "E-Mail",
-      "link": "mailto:dogan@mert.nrw",
-      "icon": ""
+      "keyword": "default",
+      "socials": [
+        {
+          "name": "E-Mail",
+          "link": "mailto:dogan@mert.nrw",
+          "icon": ""
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/mertdogan12_1/",
+          "icon": "https://github.mert.nrw/mertdogan12/instagram.png"
+        },
+        {
+          "name": "Steam",
+          "link": "https://steamcommunity.com/id/mertdogan12/",
+          "icon": "https://avatars.cloudflare.steamstatic.com/66c716db330d47f4475de1e0c76f021363eb59dd_full.jpg"
+        },
+        {
+          "name": "Discord",
+          "link": "https://discordapp.com/users/mertdogan#4181",
+          "icon": "https://github.mert.nrw/mertdogan12/original.png"
+        },
+        {
+          "name": "Github",
+          "link": "https://gihub.com/mertdogan12",
+          "icon": "https://avatars.githubusercontent.com/u/42122932?v=4"
+        }
+      ]
     },
     {
-      "name": "Instagram",
-      "link": "https://www.instagram.com/mertdogan12_1/",
-      "icon": "https://github.mert.nrw/mertdogan12/instagram.png"
-    },
-    {
-      "name": "Twitter",
-      "link": "https://twitter.com/mertdogan12_1",
-      "icon": "https://pbs.twimg.com/profile_images/1396231464400871426/4FKNHxOB_400x400.jpg"
-    },
-    {
-      "name": "My Anime List",
-      "link": "https://myanimelist.net/animelist/mertdogan",
-      "icon": "https://cdn.myanimelist.net/images/userimages/11209228.jpg?t=1649162400"
-    },
-    {
-      "name": "Osu",
-      "link": "https://osu.ppy.sh/users/16775794",
-      "icon": "https://a.ppy.sh/16775794?1649113248.png"
-    },
-    {
-      "name": "Steam",
-      "link": "https://steamcommunity.com/id/mertdogan12/",
-      "icon": "https://avatars.cloudflare.steamstatic.com/66c716db330d47f4475de1e0c76f021363eb59dd_full.jpg"
-    },
-    {
-      "name": "Discord",
-      "link": "https://discordapp.com/users/mertdogan#4181",
-      "icon": "https://github.mert.nrw/mertdogan12/original.png"
-    },
-    {
-      "name": "Github",
-      "link": "https://gihub.com/mertdogan12",
-      "icon": "https://avatars.githubusercontent.com/u/42122932?v=4"
+      "keyword": "all",
+      "socials": [
+        {
+          "name": "E-Mail",
+          "link": "mailto:dogan@mert.nrw",
+          "icon": ""
+        },
+        {
+          "name": "Instagram",
+          "link": "https://www.instagram.com/mertdogan12_1/",
+          "icon": "https://github.mert.nrw/mertdogan12/instagram.png"
+        },
+        {
+          "name": "Twitter",
+          "link": "https://twitter.com/mertdogan12_1",
+          "icon": "https://pbs.twimg.com/profile_images/1396231464400871426/4FKNHxOB_400x400.jpg"
+        },
+        {
+          "name": "My Anime List",
+          "link": "https://myanimelist.net/animelist/mertdogan",
+          "icon": "https://cdn.myanimelist.net/images/userimages/11209228.jpg?t=1649162400"
+        },
+        {
+          "name": "Osu",
+          "link": "https://osu.ppy.sh/users/16775794",
+          "icon": "https://a.ppy.sh/16775794?1649113248.png"
+        },
+        {
+          "name": "Steam",
+          "link": "https://steamcommunity.com/id/mertdogan12/",
+          "icon": "https://avatars.cloudflare.steamstatic.com/66c716db330d47f4475de1e0c76f021363eb59dd_full.jpg"
+        },
+        {
+          "name": "Discord",
+          "link": "https://discordapp.com/users/mertdogan#4181",
+          "icon": "https://github.mert.nrw/mertdogan12/original.png"
+        },
+        {
+          "name": "Github",
+          "link": "https://gihub.com/mertdogan12",
+          "icon": "https://avatars.githubusercontent.com/u/42122932?v=4"
+        }
+      ]
     }
   ],
   "websiteInfo": "Source: https://github.com/mertdogan12/website",
