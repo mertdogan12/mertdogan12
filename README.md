@@ -1,1 +1,1 @@
-![Stats](https://github-readme-stats.vercel.app/api?username=mertdogan12&count_private=true&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?mertdogan12=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
