@@ -1,3 +1,3 @@
 # PGP Keys
-- [mert@dogan.at](pgp.txt)
-- [mert.dogan@me.com](mert.dogan@me.com)
+- [mert@dogan.at](mert@dogan.at.gpg)
+- [mert.dogan@me.com](mert.dogan@me.com.gpg)
