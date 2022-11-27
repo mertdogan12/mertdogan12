@@ -1,3 +1,5 @@
-theme: jekyll-theme-cayman
+plugins:
+  - jekyll-remote-theme
+remote_theme: zivong/ockham
 name: Mert's Website
 title: null
