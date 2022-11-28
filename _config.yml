@@ -3,6 +3,3 @@ plugins:
 remote_theme: zivong/ockham
 name: Mert's Website
 title: null
-sidebar:
-  - url: 'https://github.com/ashenm/jekyll-sidebar'
-    title: 'github'
