@@ -5,3 +5,4 @@
 # Socials
 - [Myanimelist](https://myanimelist.net/animelist/mertdogan)
 - [Instagram](https://instagram.com/mertdogan12_1)
+- [Github](https://github.com/mertdogan12)
